@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / virtual envs
+env/
+venv/
+*.conda
+*.env
+
+# Logs / temp
+logs/
+tmp/
+
+# OS
+.DS_Store
+
